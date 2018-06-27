@@ -7,6 +7,9 @@ MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, wh
 Special Thanks
 -----
 * Uncle Bob
+* Ken Cooper
+* Ted Peters
+
 
 Developed By
 -----
