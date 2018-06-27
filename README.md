@@ -4,6 +4,13 @@ MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, wh
 
 ![Logo](./imgs/mvvm.png) 
 
+Project
+-----
+* `ApiClient.swift` - Fake class to obtain the data.
+* `Data.swift` - Data model with the information to show in the table.
+* `DataViewModel.swift` - Manage and format the data to be displayed in the views.
+* `CustomTableViewCell.swift` - The cell that contain the data
+
 Special Thanks
 -----
 * Uncle Bob
