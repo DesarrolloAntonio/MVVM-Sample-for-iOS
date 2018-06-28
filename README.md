@@ -1,4 +1,4 @@
-# MVVM-Sample
+# MVVM-Sample (Swift) for iOS
 
 MVVM (Model View ViewModel) is an architectural pattern based on MVC and MVP, which attempts to more clearly separate the development of user-interfaces (UI) from that of the business logic and behaviour in an application. 
 
